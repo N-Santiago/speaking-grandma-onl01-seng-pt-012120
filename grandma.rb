@@ -17,4 +17,5 @@ if "Hello Grandma".downcase
 elsif "Hello Grandma".upcase
 then puts "NO, NOT SINCE 1938!"
 elsif string == "I LOVE YOU GRANDMA!"
-then puts ""
+then puts "I LOVE YOU TOO PUMPKIN!"
+end
