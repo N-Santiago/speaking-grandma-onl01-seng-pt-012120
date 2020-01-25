@@ -13,4 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 ref speak_to_grandma
 if "Hello Grandma".downcase 
-  then 
+  then puts "HUH?! SPEAK UP, SONNY!"
+elsif "Hello Grandma".upcase
+then puts 
