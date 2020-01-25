@@ -16,4 +16,5 @@ if "Hello Grandma".downcase
   then puts "HUH?! SPEAK UP, SONNY!"
 elsif "Hello Grandma".upcase
 then puts "NO, NOT SINCE 1938!"
-elsif string == ""
+elsif string == "I LOVE YOU GRANDMA!"
+then puts ""
